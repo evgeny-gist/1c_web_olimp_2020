@@ -1,0 +1,15 @@
+1 10
+<<<CSS>>>
+#g {line-height: 1.5}
+.h {background: white}
+<<<HTML>>>
+<!doctype html>
+<html lang="en-RU">
+<head>
+ <meta charset="UTF-8">
+ <title>Google</title>
+</head>
+ <body class="h" id="g">
+  <div class="h"></div>
+ </body>
+</html>
